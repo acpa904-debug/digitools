@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "AI Integrations",
+    "description": "Connect and automate your workflows with powerful AI integrations across all major platforms.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["50+ AI connectors", "Auto-sync data", "Webhook support", "Real-time triggers"],
+    "icon": "package"
+  },
+  {
+    "id": 2,
+    "name": "Design To Publish Pack",
+    "description": "Transform your designs into published content instantly with one-click export tools.",
+    "price": 49,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": ["Figma to code", "100+ templates", "Auto-publish", "Brand kit included"],
+    "icon": "rocket"
+  },
+  {
+    "id": 3,
+    "name": "Markdown Blade Assets",
+    "description": "Professional markdown editor with asset management for technical documentation teams.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Live preview", "Asset library", "Export to PDF", "Version control"],
+    "icon": "play"
+  },
+  {
+    "id": 4,
+    "name": "Automation Toolkit",
+    "description": "Build powerful automation pipelines without writing a single line of code.",
+    "price": 39,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Drag & drop builder", "500+ actions", "Schedule tasks", "Error handling"],
+    "icon": "package"
+  },
+  {
+    "id": 5,
+    "name": "ResumeBuilder Pro",
+    "description": "Create ATS-optimized resumes with AI-powered suggestions and professional templates.",
+    "price": 15,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF", "AI suggestions"],
+    "icon": "user"
+  },
+  {
+    "id": 6,
+    "name": "ScanMedia Control AI",
+    "description": "Monitor and manage all your social media channels from one intelligent dashboard.",
+    "price": 59,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": ["Multi-platform", "AI scheduling", "Analytics reports", "Team collaboration"],
+    "icon": "rocket"
+  },
+  {
+    "id": 7,
+    "name": "Content Writer AI",
+    "description": "Generate high-quality blog posts, emails, and marketing copy in seconds.",
+    "price": 35,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["SEO optimized", "50+ languages", "Plagiarism check", "Tone control"],
+    "icon": "play"
+  },
+  {
+    "id": 8,
+    "name": "DataSync Pro",
+    "description": "Seamlessly sync data between all your tools and databases in real-time.",
+    "price": 45,
+    "period": "yearly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Real-time sync", "200+ integrations", "Data mapping", "Auto backups"],
+    "icon": "package"
+  },
+  {
+    "id": 9,
+    "name": "Analytics Dashboard",
+    "description": "Get deep insights into your business performance with beautiful visual reports.",
+    "price": 25,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": ["Custom widgets", "Live data", "Export reports", "Team sharing"],
+    "icon": "user"
+  }
+]
